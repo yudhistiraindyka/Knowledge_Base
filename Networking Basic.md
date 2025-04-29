@@ -169,9 +169,9 @@ exit
 
 ### 1. Enable Routing Globally
 ```
-	configure terminal
-	ip routing
-	exit
+configure terminal
+ip routing
+exit
 ```
 ### 2. Configure OSPF router
 ```
